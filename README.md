@@ -14,16 +14,13 @@ Formação em Matematica na Universidade Sao Marcos
 Pos Graduação em Marketing na FAAP
 Pos Graduação em Administracao na FAAP
 
-
-
-
-
-
-
-
 ### Tecnologias que aprendo atualmente
-
-
+*Sou princiante em :
+*HTML (linguagem de Marcação)
+CSS ( linguagem de estilização)
+JavaScript
+Git e GitBash
+GitHub
 
 <!--
 **Marangela/Marangela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
