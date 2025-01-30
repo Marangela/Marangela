@@ -1,4 +1,4 @@
-<img src="https://github.com/Marangela/Marangela/blob/main/caminho.jpg" weight ="1200" height="500"> 
+<img src="https://github.com/Marangela/Marangela/blob/main/caminho.jpg" weight ="1200" height="800"> 
 
 # Mara Angela
 
