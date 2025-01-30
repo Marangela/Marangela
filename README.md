@@ -1,4 +1,4 @@
-<img src="C:https://github.com/Marangela/Marangela/blob/main/caminho.jpg
+<img src="https://github.com/Marangela/Marangela/blob/main/caminho.jpg"
 
 # Mara Angela
 
